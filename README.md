@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello! I am Christopher Rossi
 
-<!--
-**DuckyZero/DuckyZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+「 Computer Science Bachelor of Science Candidate @ :baby_chick: Wilfrid Laurier University 」
 
-Here are some ideas to get you started:
+## Skills and Experience:
+* Python :snake:
+* Java :coffee:
+* C :books:
+* VBA :chart:
+* HTML, CSS :desktop_computer:
+* Adobe Photoshop + Adobe Premiere Pro :camera_flash:
+* Microsoft Office Suite :office:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Statistics:
+
+[![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckyZero)](https://github.com/DuckyZero/github-readme-stats)
