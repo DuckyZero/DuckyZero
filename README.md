@@ -2,7 +2,7 @@
 
 「 Computer Science Bachelor of Science Candidate @ :baby_chick: Wilfrid Laurier University 」
 
-## Skills and Experience:
+## Technical Skills:
 * Python :snake:
 * Java :coffee:
 * C :books:
