@@ -11,6 +11,9 @@
 * Adobe Photoshop + Adobe Premiere Pro :camera_flash:
 * Microsoft Office Suite :office:
 
-## GitHub Statistics:
-
-[![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckyZero)](https://github.com/DuckyZero/github-readme-stats)
+## About Me!
+* I started to self-teach myself the piano after taking a break from music for almost 3 years
+  * Fav music pieces: https://www.youtube.com/watch?v=P0kUMfg-dHE & https://www.youtube.com/watch?v=TWSev2zYD1o
+* Mechanical keyboard and tech enthusiast 
+* Personal finance and investing is one of my hidden passions, I love to read books on those topics and and company financials (real exciting stuff I know)
+* 
