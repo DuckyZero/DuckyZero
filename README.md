@@ -5,7 +5,7 @@
 ## Technical Skills:
 * Python :snake:
 * Java :coffee:
-* C :books:
+* C++ (self-learned!) :books:
 * VBA :chart:
 * HTML, CSS :desktop_computer:
 * Adobe Photoshop + Adobe Premiere Pro :camera_flash:
