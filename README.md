@@ -1,4 +1,4 @@
-## Hello! I am Christopher Rossi
+## Hello! I'm Chris
 
 「 Computer Science Bachelor of Science Candidate @ :baby_chick: Wilfrid Laurier University 」
 
