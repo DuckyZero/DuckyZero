@@ -1,6 +1,6 @@
 ## Hello! I'm Chris
 
-「 Computer Science Bachelor of Science Candidate @ :baby_chick: Wilfrid Laurier University 」
+「 Computer Science Bachelor of Science Candidate @ Wilfrid Laurier University 」
 
 ## Technical Skills:
 * Python :snake:
